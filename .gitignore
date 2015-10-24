@@ -1,0 +1,4 @@
+*.swp
+*.yml
+*.sql
+.sass-cache/
